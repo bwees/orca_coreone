@@ -1,0 +1,35 @@
+name: Zip Profiles and Upload Artifacts
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  zip-profiles:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Zip each folder in profiles/
+        run: |
+          mkdir -p zipped_profiles
+          for dir in profiles/*/; do
+            folder_name=$(basename "$dir")
+            zip -r "zipped_profiles/$folder_name.zip" "$dir"
+          done
+
+      - name: Rename .zip files to .orca_printer
+        run: |
+          for file in zipped_profiles/*.zip; do
+              mv "$file" "${file%.zip}.orca_printer"
+          done
+
+      - name: Upload zipped folders as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: profiles-zipped
+          path: zipped_profiles/*.orca_printer
