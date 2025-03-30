@@ -1,0 +1,15 @@
+{
+    "bottom_shell_layers": "3",
+    "from": "User",
+    "inherits": "0.20mm STRUCTURAL @COREONE",
+    "inner_wall_line_width": "0.5",
+    "internal_solid_infill_line_width": "0.5",
+    "is_custom_defined": "0",
+    "layer_height": "0.25",
+    "name": "0.25mm STRUCTURAL @COREONE",
+    "outer_wall_line_width": "0.5",
+    "print_settings_id": "0.25mm STRUCTURAL @COREONE",
+    "sparse_infill_line_width": "0.5",
+    "top_shell_layers": "4",
+    "version": "2.3.0.0"
+}
