@@ -3,8 +3,12 @@ name: Zip Profiles and Upload Artifacts
 on:
   push:
     branches:
-      - main
+      - main    
+    paths:
+    - 'profiles/**'
   pull_request:
+    paths:
+      - 'profiles/**'
 
 jobs:
   zip-profiles:
