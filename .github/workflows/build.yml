@@ -27,9 +27,10 @@ jobs:
           for file in zipped_profiles/*.zip; do
               mv "$file" "${file%.zip}.orca_printer"
           done
-
-      - name: Upload zipped folders as artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: profiles-zipped
-          path: zipped_profiles/*.orca_printer
+      - name: Upload each profile individually
+        run: |
+          for file in zipped_profiles/*.orca_printer; do
+            artifact_name=$(basename "$file" .orca_printer)
+            gh run upload-artifact --name "$artifact_name" --path "$file"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
