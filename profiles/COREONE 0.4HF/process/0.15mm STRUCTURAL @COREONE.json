@@ -144,9 +144,7 @@
     "overhang_reverse_internal_only": "0",
     "overhang_reverse_threshold": "50%",
     "overhang_speed_classic": "0",
-    "post_process": [
-        "/Users/bwees/Documents/OrcaSlicer/orca_bgcode/dist/bin/bgcode --post-processor --slicer_metadata_compression=1 --gcode_compression=3 --gcode_encoding=2"
-    ],
+    "post_process": [],
     "precise_outer_wall": "0",
     "precise_z_height": "0",
     "preheat_steps": "1",
