@@ -1,5 +1,8 @@
 # Prusa CORE One OrcaSlicer Profiles
 
+![core one](docs/coreone.png)
+![orcaslicer](docs/OrcaSlicer.png)
+
 This repository houses work-in-progress OrcaSlicer print profiles for the Prusa CORE One. Each commit has a build action that creates orca_printer profiles for easy download and testing.
 
 > [!WARNING]
