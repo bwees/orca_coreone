@@ -10,6 +10,11 @@ This repository houses work-in-progress OrcaSlicer print profiles for the Prusa 
 
 *Special thanks to LinksLab, jmac, Chris, Buns, and liberodark on the OrcaSlicer Discord for beta testing these profiles*
 
+## Known Issues
+
+- When starting a print without the [bgcode post-processor](#bgcode-support), the printer may throw a warning at the start of the print saying that the print profile is not compatible.
+  - **Solution:** Install bgcode post-processor. It appears that the printer checks gcode comments for specific settings to determine profile compatibility. We have not narrowed down the offending setting but the bgcode post-processor strips all comments and allows printer to start. If you do not want to install bgcode post-processor, you can simply hit "Print" on the warning. 
+
 ## Chamber Temperature Control
 
 OrcaSlicer does not have the concept of a "minimal" and "nominal" print temperature like PrusaSlicer does. Thus, we must work around this limitation and use the chamber temperature controls that OrcaSlicer offers. The start G-Code of these profiles behaves in the following way:
