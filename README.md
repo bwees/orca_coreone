@@ -10,6 +10,8 @@ This repository houses work-in-progress OrcaSlicer print profiles for the Prusa 
 
 *Special thanks to LinksLab, jmac, Chris, Buns, and liberodark on the OrcaSlicer Discord for beta testing these profiles*
 
+Download the latest profiles [here](https://github.com/bwees/orca_coreone/releases/latest)
+
 ## Known Issues
 
 - When starting a print without the [bgcode post-processor](#bgcode-support), the printer may throw a warning at the start of the print saying that the print profile is not compatible.
