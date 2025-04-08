@@ -83,10 +83,6 @@
             "sub_path": "process/process_common_mk4s.json"
         },
         {
-            "name": "process_common_coreone",
-            "sub_path": "process/process_common_coreone.json"
-        },
-        {
             "name": "0.20mm Standard @MINI 0.25",
             "sub_path": "process/0.20mm Standard @MINI 0.25.json"
         },
