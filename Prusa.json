@@ -1699,6 +1699,142 @@
         {
             "name": "Prusa Generic PLA Silk @MK4S 0.8",
             "sub_path": "filament/Prusa Generic PLA Silk @MK4S 0.8.json"
+        },
+        {
+            "name": "Prusa Generic ABS @COREONE",
+            "sub_path": "filament/Prusa Generic ABS @COREONE.json"
+        },
+        {
+            "name": "Prusa Generic ABS @COREONE 0.6",
+            "sub_path": "filament/Prusa Generic ABS @COREONE 0.6.json"
+        },
+        {
+            "name": "Prusa Generic ABS @COREONE 0.8",
+            "sub_path": "filament/Prusa Generic ABS @COREONE 0.8.json"
+        },
+        {
+            "name": "Prusa Generic ABS @COREONE HF0.4",
+            "sub_path": "filament/Prusa Generic ABS @COREONE HF0.4.json"
+        },
+        {
+            "name": "Prusa Generic ABS @COREONE HF0.5",
+            "sub_path": "filament/Prusa Generic ABS @COREONE HF0.5.json"
+        },
+        {
+            "name": "Prusa Generic ABS @COREONE HF0.6",
+            "sub_path": "filament/Prusa Generic ABS @COREONE HF0.6.json"
+        },
+        {
+            "name": "Prusa Generic ABS @COREONE HF0.8",
+            "sub_path": "filament/Prusa Generic ABS @COREONE HF0.8.json"
+        },
+        {
+            "name": "Prusa Generic ASA @COREONE",
+            "sub_path": "filament/Prusa Generic ASA @COREONE.json"
+        },
+        {
+            "name": "Prusa Generic ASA @COREONE 0.6",
+            "sub_path": "filament/Prusa Generic ASA @COREONE 0.6.json"
+        },
+        {
+            "name": "Prusa Generic ASA @COREONE 0.8",
+            "sub_path": "filament/Prusa Generic ASA @COREONE 0.8.json"
+        },
+        {
+            "name": "Prusa Generic ASA @COREONE HF0.4",
+            "sub_path": "filament/Prusa Generic ASA @COREONE HF0.4.json"
+        },
+        {
+            "name": "Prusa Generic ASA @COREONE HF0.5",
+            "sub_path": "filament/Prusa Generic ASA @COREONE HF0.5.json"
+        },
+        {
+            "name": "Prusa Generic ASA @COREONE HF0.6",
+            "sub_path": "filament/Prusa Generic ASA @COREONE HF0.6.json"
+        },
+        {
+            "name": "Prusa Generic ASA @COREONE HF0.8",
+            "sub_path": "filament/Prusa Generic ASA @COREONE HF0.8.json"
+        },
+        {
+            "name": "Prusa Generic TPU @COREONE",
+            "sub_path": "filament/Prusa Generic TPU @COREONE.json"
+        },
+        {
+            "name": "Prusa Generic TPU @COREONE 0.6",
+            "sub_path": "filament/Prusa Generic TPU @COREONE 0.6.json"
+        },
+        {
+            "name": "Prusa Generic TPU @COREONE 0.8",
+            "sub_path": "filament/Prusa Generic TPU @COREONE 0.8.json"
+        },
+        {
+            "name": "Prusa Generic PETG @COREONE",
+            "sub_path": "filament/Prusa Generic PETG @COREONE.json"
+        },
+        {
+            "name": "Prusa Generic PETG @COREONE 0.6",
+            "sub_path": "filament/Prusa Generic PETG @COREONE 0.6.json"
+        },
+        {
+            "name": "Prusa Generic PETG @COREONE 0.8",
+            "sub_path": "filament/Prusa Generic PETG @COREONE 0.8.json"
+        },
+        {
+            "name": "Prusa Generic PETG @COREONE HF0.4",
+            "sub_path": "filament/Prusa Generic PETG @COREONE HF0.4.json"
+        },
+        {
+            "name": "Prusa Generic PETG @COREONE HF0.5",
+            "sub_path": "filament/Prusa Generic PETG @COREONE HF0.5.json"
+        },
+        {
+            "name": "Prusa Generic PETG @COREONE HF0.6",
+            "sub_path": "filament/Prusa Generic PETG @COREONE HF0.6.json"
+        },
+        {
+            "name": "Prusa Generic PETG @COREONE HF0.8",
+            "sub_path": "filament/Prusa Generic PETG @COREONE HF0.8.json"
+        },
+        {
+            "name": "Prusa Generic PLA @COREONE",
+            "sub_path": "filament/Prusa Generic PLA @COREONE.json"
+        },
+        {
+            "name": "Prusa Generic PLA @COREONE 0.6",
+            "sub_path": "filament/Prusa Generic PLA @COREONE 0.6.json"
+        },
+        {
+            "name": "Prusa Generic PLA @COREONE 0.8",
+            "sub_path": "filament/Prusa Generic PLA @COREONE 0.8.json"
+        },
+        {
+            "name": "Prusa Generic PLA @COREONE HF0.4",
+            "sub_path": "filament/Prusa Generic PLA @COREONE HF0.4.json"
+        },
+        {
+            "name": "Prusa Generic PLA @COREONE HF0.5",
+            "sub_path": "filament/Prusa Generic PLA @COREONE HF0.5.json"
+        },
+        {
+            "name": "Prusa Generic PLA @COREONE HF0.6",
+            "sub_path": "filament/Prusa Generic PLA @COREONE HF0.6.json"
+        },
+        {
+            "name": "Prusa Generic PLA @COREONE HF0.8",
+            "sub_path": "filament/Prusa Generic PLA @COREONE HF0.8.json"
+        },
+        {
+            "name": "Prusa Generic PLA Silk @COREONE",
+            "sub_path": "filament/Prusa Generic PLA Silk @COREONE.json"
+        },
+        {
+            "name": "Prusa Generic PLA Silk @COREONE 0.6",
+            "sub_path": "filament/Prusa Generic PLA Silk @COREONE 0.6.json"
+        },
+        {
+            "name": "Prusa Generic PLA Silk @COREONE 0.8",
+            "sub_path": "filament/Prusa Generic PLA Silk @COREONE 0.8.json"
         }
     ],
     "machine_list": [

@@ -1,0 +1,15 @@
+{
+    "compatible_printers": [
+        "Prusa COREONE HF0.8 nozzle"
+    ],
+    "fan_min_speed": "15",
+    "filament_id": "Generic ABS @COREONE HF0.8",
+    "filament_max_volumetric_speed": "36",
+    "from": "system",
+    "inherits": "Prusa Generic ABS @COREONE HF0.4",
+    "instantiation": "true",
+    "name": "Prusa Generic ABS @COREONE HF0.8",
+    "setting_id": "GFSA04",
+    "slow_down_layer_time": "25",
+    "type": "filament"
+}
