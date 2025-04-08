@@ -3,6 +3,9 @@
 ![core one](docs/coreone.png)
 ![orcaslicer](docs/OrcaSlicer.png)
 
+> [!NOTE]
+> This branch contains work for developing a PR'able version of the CORE One Profiles.
+
 This repository houses work-in-progress OrcaSlicer print profiles for the Prusa CORE One. Each commit has a build action that creates orca_printer profiles for easy download and testing. The end goal of this repo is to PR to OrcaSlicer upstream and be available as a built-in profile.
 
 > [!WARNING]
