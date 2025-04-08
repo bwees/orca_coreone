@@ -1,22 +1,15 @@
 {
-    "default_filament_profile": "Prusament PLA @MK4S 0.8",
+    "default_filament_profile": "Prusament PLA @COREONE 0.8",
     "default_print_profile": "0.40mm QUALITY @COREONE 0.8",
-    "deretraction_speed": "15",
     "from": "system",
-    "inherits": "Prusa COREONE 0.4 nozzle",
+    "inherits": "Prusa COREONE HF0.8 nozzle",
     "instantiation": "true",
-    "max_layer_height": "0.6",
-    "min_layer_height": "0.2",
     "name": "Prusa COREONE 0.8 nozzle",
     "nozzle_diameter": [
         "0.8"
     ],
     "printer_model": "COREONE",
+    "printer_notes": "Don't remove the following keywords! These keywords are used in the \"compatible printer\" condition of the print and filament profiles to link the particular print and filament profiles to this printer profile.\nPRINTER_MODEL_COREONE\nPG\nNO_TEMPLATES",
     "printer_variant": "0.8",
-    "retract_before_wipe": "50%",
-    "retraction_length": "0.6",
-    "retraction_speed": "25",
-    "type": "machine",
-    "wipe": "1",
-    "z_hop": "0.25"
+    "type": "machine"
 }

@@ -1,0 +1,10 @@
+{
+    "travel_speed": "350",
+    "travel_acceleration": "7000",
+    "default_acceleration": "3000",
+    "support_interface_top_layers": "3",
+    "initial_layer_infill_speed": "100",
+    "initial_layer_speed": "45",
+
+    "compatible_printers_condition": "printer_model=~/(COREONE|COREONEMMU3)/ and nozzle_diameter[0]==0.5 and printer_notes=~/.*HF_NOZZLE.*/"
+}
