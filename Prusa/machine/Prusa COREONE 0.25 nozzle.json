@@ -1,5 +1,5 @@
 {
-    "default_print_profile": "0.12mm STRUCTURAL @Prusa COREONE 0.25",
+    "default_print_profile": "0.12mm STRUCTURAL @COREONE 0.25",
     "from": "system",
     "inherits": "Prusa COREONE 0.4 nozzle",
     "instantiation": "true",

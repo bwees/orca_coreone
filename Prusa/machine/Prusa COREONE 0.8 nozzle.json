@@ -1,6 +1,6 @@
 {
     "default_filament_profile": "Prusament PLA @MK4S 0.8",
-    "default_print_profile": "0.40mm QUALITY @Prusa COREONE 0.8",
+    "default_print_profile": "0.40mm QUALITY @COREONE 0.8",
     "deretraction_speed": "15",
     "from": "system",
     "inherits": "Prusa COREONE 0.4 nozzle",

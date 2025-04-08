@@ -1,6 +1,6 @@
 {
     "default_filament_profile": "Prusament PLA @MK4S",
-    "default_print_profile": "0.20mm SPEED @Prusa COREONE 0.4",
+    "default_print_profile": "0.20mm SPEED @COREONE 0.4",
     "from": "system",
     "inherits": "fdm_machine_common_coreone",
     "instantiation": "true",

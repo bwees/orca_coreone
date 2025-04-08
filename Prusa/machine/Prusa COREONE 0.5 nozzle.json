@@ -1,5 +1,5 @@
 {
-    "default_print_profile": "0.20mm SPEED @Prusa COREONE 0.5",
+    "default_print_profile": "0.20mm SPEED @COREONE 0.5",
     "from": "system",
     "inherits": "Prusa COREONE 0.4 nozzle",
     "instantiation": "true",
