@@ -6,7 +6,7 @@
   "inner_wall_speed": "80",
   "instantiation": "true",
   "layer_height": "0.15",
-  "name": "0.15mm STRUCTURAL @COREONE 0.6",
+  "name": "0.15mm STRUCTURAL @Prusa COREONE 0.6",
   "top_shell_layers": "6",
   "type": "process"
 }

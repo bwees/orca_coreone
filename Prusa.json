@@ -41,7 +41,7 @@
             "sub_path": "machine/Prusa MK4S HF.json"
         },
         {
-            "name": "CORE One",
+            "name": "COREONE",
             "sub_path": "machine/Prusa COREONE.json"
         }
     ],
@@ -851,120 +851,120 @@
             "sub_path": "process/0.55mm STRUCTURAL @MK4S HF0.8.json"
         },
         {
-            "name": "0.05mm Detail @Prusa COREONE 0.25",
-            "sub_path": "process/0.05mm Detail @Prusa COREONE 0.25.json"
+            "name": "0.05mm DETAIL @Prusa COREONE 0.25",
+            "sub_path": "process/0.05mm DETAIL @Prusa COREONE 0.25.json"
         },
         {
-            "name": "0.10mm Fast Detail @Prusa COREONE 0.4",
-            "sub_path": "process/0.10mm Fast Detail @Prusa COREONE 0.4.json"
+            "name": "0.10mm FAST DETAIL @Prusa COREONE 0.4",
+            "sub_path": "process/0.10mm FAST DETAIL @Prusa COREONE 0.4.json"
         },
         {
-            "name": "0.10mm Structural @Prusa COREONE 0.5",
-            "sub_path": "process/0.10mm Structural @Prusa COREONE 0.5.json"
+            "name": "0.10mm STRUCTURAL @Prusa COREONE 0.5",
+            "sub_path": "process/0.10mm STRUCTURAL @Prusa COREONE 0.5.json"
         },
         {
-            "name": "0.12mm Structural @Prusa COREONE 0.25",
-            "sub_path": "process/0.12mm Structural @Prusa COREONE 0.25.json"
+            "name": "0.12mm STRUCTURAL @Prusa COREONE 0.25",
+            "sub_path": "process/0.12mm STRUCTURAL @Prusa COREONE 0.25.json"
         },
         {
-            "name": "0.12mm Structural @Prusa COREONE 0.3",
-            "sub_path": "process/0.12mm Structural @Prusa COREONE 0.3.json"
+            "name": "0.12mm STRUCTURAL @Prusa COREONE 0.3",
+            "sub_path": "process/0.12mm STRUCTURAL @Prusa COREONE 0.3.json"
         },
         {
-            "name": "0.15mm Speed @Prusa COREONE 0.25",
-            "sub_path": "process/0.15mm Speed @Prusa COREONE 0.25.json"
+            "name": "0.15mm SPEED @Prusa COREONE 0.25",
+            "sub_path": "process/0.15mm SPEED @Prusa COREONE 0.25.json"
         },
         {
-            "name": "0.15mm Speed @Prusa COREONE 0.4",
-            "sub_path": "process/0.15mm Speed @Prusa COREONE 0.4.json"
+            "name": "0.15mm SPEED @Prusa COREONE 0.4",
+            "sub_path": "process/0.15mm SPEED @Prusa COREONE 0.4.json"
         },
         {
-            "name": "0.15mm Structural @Prusa COREONE 0.25",
-            "sub_path": "process/0.15mm Structural @Prusa COREONE 0.25.json"
+            "name": "0.15mm STRUCTURAL @Prusa COREONE 0.25",
+            "sub_path": "process/0.15mm STRUCTURAL @Prusa COREONE 0.25.json"
         },
         {
-            "name": "0.15mm Structural @Prusa COREONE 0.4",
-            "sub_path": "process/0.15mm Structural @Prusa COREONE 0.4.json"
+            "name": "0.15mm STRUCTURAL @Prusa COREONE 0.4",
+            "sub_path": "process/0.15mm STRUCTURAL @Prusa COREONE 0.4.json"
         },
         {
-            "name": "0.15mm Structural @Prusa COREONE 0.5",
-            "sub_path": "process/0.15mm Structural @Prusa COREONE 0.5.json"
+            "name": "0.15mm STRUCTURAL @Prusa COREONE 0.5",
+            "sub_path": "process/0.15mm STRUCTURAL @Prusa COREONE 0.5.json"
         },
         {
-            "name": "0.15mm Structural @Prusa COREONE 0.6",
-            "sub_path": "process/0.15mm Structural @Prusa COREONE 0.6.json"
+            "name": "0.15mm STRUCTURAL @Prusa COREONE 0.6",
+            "sub_path": "process/0.15mm STRUCTURAL @Prusa COREONE 0.6.json"
         },
         {
-            "name": "0.16mm Speed @Prusa COREONE 0.3",
-            "sub_path": "process/0.16mm Speed @Prusa COREONE 0.3.json"
+            "name": "0.16mm SPEED @Prusa COREONE 0.3",
+            "sub_path": "process/0.16mm SPEED @Prusa COREONE 0.3.json"
         },
         {
-            "name": "0.16mm Structural @Prusa COREONE 0.3",
-            "sub_path": "process/0.16mm Structural @Prusa COREONE 0.3.json"
+            "name": "0.16mm STRUCTURAL @Prusa COREONE 0.3",
+            "sub_path": "process/0.16mm STRUCTURAL @Prusa COREONE 0.3.json"
         },
         {
-            "name": "0.20mm Speed @Prusa COREONE 0.3",
-            "sub_path": "process/0.20mm Speed @Prusa COREONE 0.3.json"
+            "name": "0.20mm SPEED @Prusa COREONE 0.3",
+            "sub_path": "process/0.20mm SPEED @Prusa COREONE 0.3.json"
         },
         {
-            "name": "0.20mm Speed @Prusa COREONE 0.4",
-            "sub_path": "process/0.20mm Speed @Prusa COREONE 0.4.json"
+            "name": "0.20mm SPEED @Prusa COREONE 0.4",
+            "sub_path": "process/0.20mm SPEED @Prusa COREONE 0.4.json"
         },
         {
-            "name": "0.20mm Speed @Prusa COREONE 0.5",
-            "sub_path": "process/0.20mm Speed @Prusa COREONE 0.5.json"
+            "name": "0.20mm SPEED @Prusa COREONE 0.5",
+            "sub_path": "process/0.20mm SPEED @Prusa COREONE 0.5.json"
         },
         {
-            "name": "0.20mm Speed @Prusa COREONE 0.6",
-            "sub_path": "process/0.20mm Speed @Prusa COREONE 0.6.json"
+            "name": "0.20mm SPEED @Prusa COREONE 0.6",
+            "sub_path": "process/0.20mm SPEED @Prusa COREONE 0.6.json"
         },
         {
-            "name": "0.20mm Structural @Prusa COREONE 0.3",
-            "sub_path": "process/0.20mm Structural @Prusa COREONE 0.3.json"
+            "name": "0.20mm STRUCTURAL @Prusa COREONE 0.3",
+            "sub_path": "process/0.20mm STRUCTURAL @Prusa COREONE 0.3.json"
         },
         {
-            "name": "0.20mm Structural @Prusa COREONE 0.4",
-            "sub_path": "process/0.20mm Structural @Prusa COREONE 0.4.json"
+            "name": "0.20mm STRUCTURAL @Prusa COREONE 0.4",
+            "sub_path": "process/0.20mm STRUCTURAL @Prusa COREONE 0.4.json"
         },
         {
-            "name": "0.20mm Structural @Prusa COREONE 0.5",
-            "sub_path": "process/0.20mm Structural @Prusa COREONE 0.5.json"
+            "name": "0.20mm STRUCTURAL @Prusa COREONE 0.5",
+            "sub_path": "process/0.20mm STRUCTURAL @Prusa COREONE 0.5.json"
         },
         {
-            "name": "0.20mm Structural @Prusa COREONE 0.6",
-            "sub_path": "process/0.20mm Structural @Prusa COREONE 0.6.json"
+            "name": "0.20mm STRUCTURAL @Prusa COREONE 0.6",
+            "sub_path": "process/0.20mm STRUCTURAL @Prusa COREONE 0.6.json"
         },
         {
-            "name": "0.25mm Speed @Prusa COREONE 0.6",
-            "sub_path": "process/0.25mm Speed @Prusa COREONE 0.6.json"
+            "name": "0.25mm SPEED @Prusa COREONE 0.6",
+            "sub_path": "process/0.25mm SPEED @Prusa COREONE 0.6.json"
         },
         {
-            "name": "0.25mm Structural @Prusa COREONE 0.5",
-            "sub_path": "process/0.25mm Structural @Prusa COREONE 0.5.json"
+            "name": "0.25mm STRUCTURAL @Prusa COREONE 0.5",
+            "sub_path": "process/0.25mm STRUCTURAL @Prusa COREONE 0.5.json"
         },
         {
-            "name": "0.25mm Structural @Prusa COREONE 0.6",
-            "sub_path": "process/0.25mm Structural @Prusa COREONE 0.6.json"
+            "name": "0.25mm STRUCTURAL @Prusa COREONE 0.6",
+            "sub_path": "process/0.25mm STRUCTURAL @Prusa COREONE 0.6.json"
         },
         {
-            "name": "0.30mm Detail @Prusa COREONE 0.8",
-            "sub_path": "process/0.30mm Detail @Prusa COREONE 0.8.json"
+            "name": "0.30mm DETAIL @Prusa COREONE 0.8",
+            "sub_path": "process/0.30mm DETAIL @Prusa COREONE 0.8.json"
         },
         {
-            "name": "0.32mm Speed @Prusa COREONE 0.6",
-            "sub_path": "process/0.32mm Speed @Prusa COREONE 0.6.json"
+            "name": "0.32mm SPEED @Prusa COREONE 0.6",
+            "sub_path": "process/0.32mm SPEED @Prusa COREONE 0.6.json"
         },
         {
-            "name": "0.32mm Structural @Prusa COREONE 0.6",
-            "sub_path": "process/0.32mm Structural @Prusa COREONE 0.6.json"
+            "name": "0.32mm STRUCTURAL @Prusa COREONE 0.6",
+            "sub_path": "process/0.32mm STRUCTURAL @Prusa COREONE 0.6.json"
         },
         {
-            "name": "0.40mm Quality @Prusa COREONE 0.8",
-            "sub_path": "process/0.40mm Quality @Prusa COREONE 0.8.json"
+            "name": "0.40mm QUALITY @Prusa COREONE 0.8",
+            "sub_path": "process/0.40mm QUALITY @Prusa COREONE 0.8.json"
         },
         {
-            "name": "0.55mm Draft @Prusa COREONE 0.8",
-            "sub_path": "process/0.55mm Draft @Prusa COREONE 0.8.json"
+            "name": "0.55mm DRAFT @Prusa COREONE 0.8",
+            "sub_path": "process/0.55mm DRAFT @Prusa COREONE 0.8.json"
         }
 
     ],

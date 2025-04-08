@@ -6,7 +6,7 @@
         "M600\nG1 E0.3 F1500 ; prime after color change"
     ],
     "default_filament_profile": "Prusament PLA @PGIS",
-    "default_print_profile": "0.20mm SPEED @MK4IS 0.4",
+    "default_print_profile": "0.20mm SPEED @Prusa COREONE 0.4",
     "deretraction_speed": "25",
     "extruder_clearance_height_to_lid": "220",
     "extruder_clearance_height_to_rod": "14",
