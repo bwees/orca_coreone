@@ -13,7 +13,7 @@ This repository houses work-in-progress OrcaSlicer print profiles for the Prusa 
 
 *Special thanks to LinksLab, jmac, Chris, Buns, and liberodark on the OrcaSlicer Discord for beta testing these profiles*
 
-Download the latest profiles [here](https://github.com/bwees/orca_coreone/releases/latest)
+This repo can be installed by overwriting the Prusa folder and Prusa.json in the application resources **and** the settings storage directory.
 
 ## Known Issues
 
