@@ -33,11 +33,3 @@ You may set the print temperature with the "Chamber temperature" setting for you
 ## bgcode Support
 
 bgcode is strongly recommended for Prusa Machines. It allows for compressed gcode to be sent to the printer. The WiFi on the Prusa machines is quite slow and this helps expedite print upload. OrcaSlicer does not support bgcode exports but, it can be easily added in the form of a Post-Processing script. I have developed [orca_bgcode](https://github.com/bwees/orca_bgcode) to do this. Follow the [install instructions](https://github.com/bwees/orca_bgcode/blob/main/README.md) in that repo to add bgcode support to this profile. You must set the post processing command for EACH print profile.
-
-## Build Plate Models/Textures
-
-It is not possible to include the CORE One build plate model and texture inside of an `.orca_printer` file. Thus, they must be downloaded separately and set manually. You may download the bed model and bed texture [here](https://github.com/bwees/orca_coreone/tree/main/bed_model).
-
-You can then move them to a known location and install them with the following:
-
-![bed model setting](docs/bed_model_texture.gif)
