@@ -15,11 +15,6 @@ This repository houses work-in-progress OrcaSlicer print profiles for the Prusa 
 
 This repo can be installed by overwriting the Prusa folder and Prusa.json in the application resources **and** the settings storage directory.
 
-## Known Issues
-
-- When starting a print without the [bgcode post-processor](#bgcode-support), the printer may throw a warning at the start of the print saying that the print profile is not compatible.
-  - **Solution:** Install bgcode post-processor. It appears that the printer checks gcode comments for specific settings to determine profile compatibility. We have not narrowed down the offending setting but the bgcode post-processor strips all comments and allows printer to start. If you do not want to install bgcode post-processor, you can simply hit "Print" on the warning. 
-
 ## Chamber Temperature Control
 
 OrcaSlicer does not have the concept of a "minimal" and "nominal" print temperature like PrusaSlicer does. Thus, we must work around this limitation and use the chamber temperature controls that OrcaSlicer offers. The start G-Code of these profiles behaves in the following way:
@@ -36,11 +31,3 @@ You may set the print temperature with the "Chamber temperature" setting for you
 ## bgcode Support
 
 bgcode is strongly recommended for Prusa Machines. It allows for compressed gcode to be sent to the printer. The WiFi on the Prusa machines is quite slow and this helps expedite print upload. OrcaSlicer does not support bgcode exports but, it can be easily added in the form of a Post-Processing script. I have developed [orca_bgcode](https://github.com/bwees/orca_bgcode) to do this. Follow the [install instructions](https://github.com/bwees/orca_bgcode/blob/main/README.md) in that repo to add bgcode support to this profile. You must set the post processing command for EACH print profile.
-
-## Build Plate Models/Textures
-
-It is not possible to include the CORE One build plate model and texture inside of an `.orca_printer` file. Thus, they must be downloaded separately and set manually. You may download the bed model and bed texture [here](https://github.com/bwees/orca_coreone/tree/main/bed_model).
-
-You can then move them to a known location and install them with the following:
-
-![bed model setting](docs/bed_model_texture.gif)
