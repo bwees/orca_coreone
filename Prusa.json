@@ -1121,6 +1121,10 @@
             "sub_path": "filament/fdm_filament_pa11cf.json"
         },
         {
+            "name": "fdm_filament_flex",
+            "sub_path": "filament/fdm_filament_flex.json"
+        },
+        {
             "name": "Prusa Generic PLA",
             "sub_path": "filament/Prusa Generic PLA.json"
         },

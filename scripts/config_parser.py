@@ -390,6 +390,7 @@ def create_bundle(base_name, hf=True, rename=None):
 create_bundle("Generic ABS @COREONE")
 create_bundle("Generic PETG @COREONE")
 create_bundle("Generic PLA @COREONE")
+create_bundle("Generic FLEX @COREONE", hf=False, rename="Generic TPU @COREONE")
 create_bundle("Generic PLA Silk @COREONE", hf=False)
 create_bundle("Prusament ASA @COREONE")
 create_bundle("Prusament ASA @COREONE", rename="Prusa Generic ASA @COREONE")

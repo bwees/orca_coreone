@@ -3,8 +3,13 @@
         "Prusa COREONE 0.8 nozzle",
         "Prusa COREONE HF0.8 nozzle"
     ],
-    "filament_id": "Generic FLEX @COREONE 0.8",
-    "filament_max_volumetric_speed": "5",
+    "filament_id": "Prusa Generic TPU @COREONE 0.8",
+    "filament_max_volumetric_speed": [
+        "7.5"
+    ],
+    "filament_z_hop": [
+        "0.6"
+    ],
     "from": "system",
     "inherits": "Prusa Generic TPU @COREONE",
     "instantiation": "true",
