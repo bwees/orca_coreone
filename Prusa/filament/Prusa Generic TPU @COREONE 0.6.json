@@ -4,7 +4,6 @@
         "Prusa COREONE HF0.6 nozzle"
     ],
     "filament_id": "Generic FLEX @COREONE 0.6",
-    "filament_max_volumetric_speed": "6",
     "from": "system",
     "inherits": "Prusa Generic TPU @COREONE",
     "instantiation": "true",

@@ -10,9 +10,9 @@
         "Prusa COREONE HF0.4 nozzle",
         "Prusa COREONE HF0.5 nozzle"
     ],
-    "fan_max_speed": "50",
-    "fan_min_speed": "30",
-    "filament_cost": "82",
+    "fan_max_speed": "75",
+    "fan_min_speed": "20",
+    "filament_cost": "22",
     "filament_density": "1.22",
     "filament_deretraction_speed": "20",
     "filament_end_gcode": [

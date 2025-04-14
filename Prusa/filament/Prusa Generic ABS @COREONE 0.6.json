@@ -2,7 +2,7 @@
     "compatible_printers": [
         "Prusa COREONE 0.6 nozzle"
     ],
-    "filament_id": "Generic ABS @COREONE 0.6",
+    "filament_id": "Prusa Generic ABS @COREONE 0.6",
     "from": "system",
     "inherits": "Prusa Generic ABS @COREONE",
     "instantiation": "true",
