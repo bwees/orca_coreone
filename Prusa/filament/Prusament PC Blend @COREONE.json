@@ -30,7 +30,7 @@
         "1.75"
     ],
     "filament_end_gcode": [
-        "\"; Filament-specific end gcode\""
+        "; Filament-specific end gcode"
     ],
     "filament_flow_ratio": [
         "1"
@@ -43,7 +43,7 @@
         "35"
     ],
     "filament_notes": [
-        "\"\""
+        ""
     ],
     "filament_soluble": [
         "0"
