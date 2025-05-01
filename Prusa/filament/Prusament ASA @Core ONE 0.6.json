@@ -1,0 +1,18 @@
+{
+    "compatible_printers": [
+        "Prusa Core ONE 0.6 nozzle"
+    ],
+    "filament_id": "Prusament ASA @Core ONE 0.6",
+    "from": "system",
+    "inherits": "Prusament ASA @Core ONE",
+    "instantiation": "true",
+    "name": "Prusament ASA @Core ONE 0.6",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "setting_id": "GFSA04",
+    "slow_down_layer_time": [
+        "15"
+    ],
+    "type": "filament"
+}

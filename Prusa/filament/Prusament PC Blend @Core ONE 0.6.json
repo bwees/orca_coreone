@@ -1,0 +1,15 @@
+{
+    "compatible_printers": [
+        "Prusa Core ONE 0.6 nozzle"
+    ],
+    "filament_id": "Prusament PC Blend @Core ONE 0.6",
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "from": "system",
+    "inherits": "Prusament PC Blend @Core ONE",
+    "instantiation": "true",
+    "name": "Prusament PC Blend @Core ONE 0.6",
+    "setting_id": "GFSA04",
+    "type": "filament"
+}

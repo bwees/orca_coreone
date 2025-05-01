@@ -1,0 +1,13 @@
+{
+    "compatible_printers": [
+        "Prusa Core ONE 0.6 nozzle"
+    ],
+    "filament_id": "Prusa Generic ABS @Core ONE 0.6",
+    "filename_format": "{input_filename_base}_{nozzle_diameter[0]}n_{layer_height}mm_{filament_type[0]}_Core ONE_{print_time}.gcode"
+    "from": "system",
+    "inherits": "Prusa Generic ABS @Core ONE",
+    "instantiation": "true",
+    "name": "Prusa Generic ABS @Core ONE 0.6",
+    "setting_id": "GFSA04",
+    "type": "filament"
+}
