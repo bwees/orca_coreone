@@ -9,6 +9,7 @@
     "travel_acceleration": "7000",
     "default_acceleration": "3000",
     "support_interface_top_layers": "3",
+    "filename_format": "{input_filename_base}_{nozzle_diameter[0]}n_{layer_height}mm_{filament_type[0]}_COREONE_{print_time}.gcode"
     "initial_layer_infill_speed": "100",
     "initial_layer_speed": "45",
     "compatible_printers_condition": "printer_notes=~/.*PRINTER_MODEL_COREONE.*/ and nozzle_diameter[0]==0.4 and printer_notes=~/.*HF_NOZZLE.*/",
