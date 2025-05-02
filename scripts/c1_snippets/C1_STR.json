@@ -1,0 +1,8 @@
+{
+    "sparse_infill_acceleration": "6000",
+    "internal_solid_infill_acceleration": "4000",
+    "inner_wall_acceleration": "2500",
+    "outer_wall_acceleration": "1500",
+    "top_surface_acceleration": "2000",
+    "default_acceleration": "3000"
+}
